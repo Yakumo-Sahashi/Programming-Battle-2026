@@ -18,6 +18,7 @@
 ## Penalizaciones
 - Copia: descalificación
 - Retraso en entrega: penalización
+- Uso de IA: expulsión
 - Conducta inapropiada: expulsión
 
 ---

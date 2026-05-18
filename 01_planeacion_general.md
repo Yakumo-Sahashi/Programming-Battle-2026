@@ -37,9 +37,7 @@ Fomentar habilidades de:
 
 ---
 
-# Tecnologías permitidas
-- C
-- C++
+# Lenguajes de Programación
 - Java
 - Python
 - JavaScript
@@ -61,3 +59,4 @@ Fomentar habilidades de:
 - Internet estable
 - Extensiones eléctricas
 - Cronómetro visible
+- Laboratorio de computo
